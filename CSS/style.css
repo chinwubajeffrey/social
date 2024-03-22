@@ -55,7 +55,7 @@ p {
   width: 5rem;
 }
 .img img {
-  /* border-radius: 50%; */
+  border-radius: 50%;
 }
 .name p {
   font-size: 1rem;
