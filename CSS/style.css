@@ -132,6 +132,9 @@ p {
   .describe p {
     font-size: 0.8rem;
   }
+  .attribution{
+    font-size: 11px;
+  }
 
   .para p {
     width: 100%;
